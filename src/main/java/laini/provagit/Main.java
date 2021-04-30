@@ -15,6 +15,6 @@ public class Main
     {
         System.out.println("Ciao Pierone");
         System.out.println("sei il migliore");
-        System.out.println("Ciao Zizzi");
+        
     }
 }
